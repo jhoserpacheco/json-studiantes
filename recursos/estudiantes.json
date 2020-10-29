@@ -1,0 +1,113 @@
+[
+  {
+    "nombre": "Jhoser",
+    "apellido": "Pacheco",
+    "codigo": 1151807,
+    "email": "jhoserfabianpq@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Stiward",
+    "apellido": "Carrillo",
+    "codigo": 1151811,
+    "email": "stiwardjherikof@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Yurley",
+    "apellido": "Espinel",
+    "codigo": 1151760,
+    "email": "yurleygabrielaes@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611",
+      "basededatos": "1155605"
+    }
+  },
+  {
+    "nombre": "Matilde",
+    "apellido": "Arevalo",
+    "codigo": 1151788,
+    "email": "matildealexandraal@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Natalia",
+    "apellido": "Ortiz",
+    "codigo": 1151770,
+    "email": "nataliaoa@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Camila",
+    "apellido": "Calderon",
+    "codigo": 1151763,
+    "email": "angelycamilacg@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Ronald",
+    "apellido": "Benitez",
+    "codigo": 1151813,
+    "email": "ronaldeduardobm@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Camila",
+    "apellido": "Calderon",
+    "codigo": 1151763,
+    "email": "angelycamilacg@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Susana",
+    "apellido": "Rojas",
+    "codigo": 1151767,
+    "email": "susanart@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Manuel",
+    "apellido": "Coronel",
+    "codigo": 1151806,
+    "email": "andrademanuelalejandroc@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  },
+  {
+    "nombre": "Jhoel",
+    "apellido": "Castilla",
+    "codigo": 1151755,
+    "email": "osoriojunioryoelc@ufps.edu.co",
+    "materias": {
+      "programacionweb": "1155604",
+      "proyectosocial": "1155611"
+    }
+  }
+]
